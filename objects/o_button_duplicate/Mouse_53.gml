@@ -1,0 +1,3 @@
+if mouseover{
+	selected = !selected	
+}
