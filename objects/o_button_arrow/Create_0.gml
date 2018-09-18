@@ -1,0 +1,1 @@
+_direction = image_xscale
